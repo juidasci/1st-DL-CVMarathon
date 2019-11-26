@@ -12,6 +12,10 @@
 [Day_001_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_001_HW.ipynb)
 
 ## Day 2
+[Day_002_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_002_HW.ipynb)
+
+## Day 3
+[Day_003_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_003_HW.ipynb)
 
 # 2. 電腦視覺深度學習基礎
 
