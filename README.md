@@ -37,7 +37,14 @@
 
 # 2. 電腦視覺深度學習基礎
 
+## Day 11
 [Day_011_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_011_HW.ipynb)
+
+## Day 12
+[Day_012_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_012_HW.ipynb)
+
+## Day 13
+[Day_013_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_013_HW.ipynb)
 
 # 3. CNN 應用案例學習
 
