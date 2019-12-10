@@ -31,8 +31,13 @@
 ## Day 8
 [Day_008_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_008_HW.ipynb)
 
+## Day 9
+
+## Day 10
+
 # 2. 電腦視覺深度學習基礎
 
+[Day_011_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_011_HW.ipynb)
 
 # 3. CNN 應用案例學習
 
