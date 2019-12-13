@@ -46,6 +46,12 @@
 ## Day 13
 [Day_013_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_013_HW.ipynb)
 
+## Day 14
+[Day_014_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_014_HW.ipynb)
+
+## Day 15
+[Day_015_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_015_HW.ipynb)
+
 # 3. CNN 應用案例學習
 
 
