@@ -56,7 +56,6 @@
 [Day_016_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_016_HW.ipynb)
 
 ## Day 17
-[Day_017_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_017_HW.ipynb)
 
 ## Day 18
 [Day_018_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_018_HW.ipynb)
