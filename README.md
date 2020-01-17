@@ -66,6 +66,12 @@
 ## Day 20
 [Day_020_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_020_HW.ipynb)
 
+## Day 21
+[Day_021_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_021_HW.ipynb)
+
+## Day 22
+[Day_022_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_022_HW.ipynb)
+
 # 3. CNN 應用案例學習
 
 
