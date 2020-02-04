@@ -74,6 +74,15 @@
 
 # 3. CNN 應用案例學習
 
+## Day 23
+
+## Day 24
+
+## Day 25
+[Day_025_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_025_HW.ipynb)
+
+## Day 26
+[Day_026_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_026_HW.ipynb)
 
 # 4. 電腦視覺深度學習實戰
 
