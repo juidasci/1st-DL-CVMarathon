@@ -84,6 +84,51 @@
 ## Day 26
 [Day_026_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_026_HW.ipynb)
 
+## Day 27
+[Day_027_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_027_HW.ipynb)
+
+## Day 28
+[Day_028_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_028_HW.ipynb)
+
+## Day 29
+[Day_029_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_029_HW.ipynb)
+
+## Day 30
+[Day_030_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_030_HW.ipynb)
+
+## Day 31
+[Day_031_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_031_HW.ipynb)
+
+## Day 32
+[Day_032_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_032_HW.ipynb)
+
+## Day 33
+[Day_033_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_033_HW.ipynb)
+
+## Day 34
+[Day_034_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_034_HW.ipynb)
+
+## Day 35
+[Day_035_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_035_HW.ipynb)
+
+## Day 36
+[Day_036_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_036_HW.ipynb)
+
+## Day 37
+[Day_037_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_037_HW.ipynb)
+
+## Day 38
+[Day_038_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_038_HW.ipynb)
+
+## Day 39
+[Day_039_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_039_HW.ipynb)
+
+## Day 40
+[Day_040_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_040_HW.ipynb)
+
+## Day 41
+[Day_041_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_041_HW.ipynb)
+
 # 4. 電腦視覺深度學習實戰
 
 
