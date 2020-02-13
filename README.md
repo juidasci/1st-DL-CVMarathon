@@ -90,14 +90,8 @@
 ## Day 28
 [Day_028_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_028_HW.ipynb)
 
-## Day 29
-[Day_029_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_029_HW.ipynb)
-
-## Day 30
-[Day_030_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_030_HW.ipynb)
-
-## Day 31
-[Day_031_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_031_HW.ipynb)
+## Day 29-31
+[Day_029-31_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Build SSD_VGG.ipynb.ipynb)
 
 ## Day 32
 [Day_032_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_032_HW.ipynb)
