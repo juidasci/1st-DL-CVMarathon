@@ -94,7 +94,6 @@
 [Day_029-31_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Build_SSD_VGG.ipynb)
 
 ## Day 32
-[Day_032_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_032_HW.ipynb)
 
 ## Day 33
 [Day_033_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_033_HW.ipynb)
