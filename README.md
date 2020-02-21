@@ -107,10 +107,8 @@
 [Day_036_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_036_HW.ipynb)
 
 ## Day 37
-[Day_037_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_037_HW.ipynb)
 
 ## Day 38
-[Day_038_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_038_HW.ipynb)
 
 ## Day 39
 [Day_039_HW](https://github.com/juidasci/1st-DL-CVMarathon/blob/master/homework/Day_039_HW.ipynb)
